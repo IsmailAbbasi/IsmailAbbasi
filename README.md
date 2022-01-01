@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IsmailAbbasi
 - 👀 I’m interested in learning programming 
 - 🌱 I’m currently learning java script
-- 💞️ I’m looking to collaborate on ...
+
 - 📫  reach me via twitter @izzyxD_
 
 <!---
