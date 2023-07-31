@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IsmailAbbasi
 - 👀 I’m interested in learning programming 
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning java script and Python
 
-- 📫  reach me via twitter @izzyxD_
+- 📫  reach me via twitter @ismailisonmoon
 
 <!---
 IsmailAbbasi/IsmailAbbasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
