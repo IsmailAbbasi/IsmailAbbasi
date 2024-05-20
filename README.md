@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [Password Saver App](https://github.com/IsmailAbbasi/Password-Saver)
 
-- 🌱 I’m currently learning **ReactJS And NodeJS**
+- 🌱 I’m currently learning **ReactJS And Django**
 
 - 👨‍💻 All of my projects are available at [https://izzy.fun/](https://izzy.fun/)
 
-- 💬 Ask me about **React, Node And Python**
+- 💬 Ask me about **React And Django**
 
 - 📫 How to reach me **ismailabbasi118@gmail.com**
 
