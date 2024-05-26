@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ismailisonmoon" target="blank"><img src="https://img.shields.io/twitter/follow/ismailisonmoon?logo=twitter&style=for-the-badge" alt="ismailisonmoon" /></a> </p>
 
-- 🔭 I’m currently working on [Password Manager App using Django](https://github.com/IsmailAbbasi/Password-Manager)
+- 🔭 I’m currently working on a project [Password Manager App](https://github.com/IsmailAbbasi/Password-Manager)
 
 - 🌱 I’m currently learning **ReactJS And Django**
 
