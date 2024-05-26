@@ -1,12 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 <h1 align="center">Hi 👋, I'm Ismail Abbasi</h1>
-<h3 align="center">A passionate frontend Web Developer from New Delhi,India</h3>
+<h3 align="center">A passionate Web Developer from New Delhi,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailabbasi&label=Profile%20views&color=0e75b6&style=flat" alt="ismailabbasi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ismailisonmoon" target="blank"><img src="https://img.shields.io/twitter/follow/ismailisonmoon?logo=twitter&style=for-the-badge" alt="ismailisonmoon" /></a> </p>
 
-- 🔭 I’m currently working on [Password Saver App](https://github.com/IsmailAbbasi/Password-Saver)
+- 🔭 I’m currently working on [Password Manager App using Django](https://github.com/IsmailAbbasi/Password-Manager)
 
 - 🌱 I’m currently learning **ReactJS And Django**
 
