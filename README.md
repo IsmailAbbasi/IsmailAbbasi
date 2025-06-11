@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/ismailisonmoon" target="blank"><img src="https://img.shields.io/twitter/follow/ismailisonmoon?logo=twitter&style=for-the-badge" alt="ismailisonmoon" /></a> </p>
 
-- 🔭 I’m currently working on a project [Password Manager App](https://github.com/IsmailAbbasi/Password-Manager)
+- 🔭 I’m currently working on a project [Examinate AI ](https://examinateai.com/)
 
 - 🌱 I’m currently learning **ReactJS And Django**
 
-- 👨‍💻 All of my projects are available at [https://izzy.fun/](https://izzy.fun/)
+- 👨‍💻 All of my projects are available at [https://ismailabbasi.engineer/](https://ismailabbasi.engineer/)
 
 - 💬 Ask me about **React And Django**
 
